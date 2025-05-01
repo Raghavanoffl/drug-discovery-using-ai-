@@ -1,0 +1,6 @@
+smiles,MolWt,TPSA,NumHDonors,activity
+CCO,46.07,9.23,1,1
+CCN,45.09,12.45,1,0
+CCC,44.1,7.32,0,1
+CCCl,62.5,20.5,1,0
+CCBr,63.5,15.3,0,1

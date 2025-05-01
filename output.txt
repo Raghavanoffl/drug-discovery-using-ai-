@@ -1,0 +1,33 @@
+Input: Carbon
+Output:
+Possible Pairings with Carbon:
+Carbon + Oxygen
+
+Use Case:
+Forms Carbon Dioxide (CO₂), which is essential in respiration and used in various industrial processes (e.g., refrigeration, carbonated beverages).
+Carbon + Hydrogen
+
+Use Case:
+Forms Methane (CH₄), a primary component of natural gas, used as a fuel source for heating and electricity production.
+Carbon + Sulfur
+
+Use Case:
+Forms Carbon Disulfide (CS₂), used in the production of cellophane and rayon fibers and also in pesticides.
+Carbon + Nitrogen
+
+Use Case:
+Forms Cyanides (CN⁻), widely used in mining and organic synthesis. Also used in pharmaceuticals for chemical reactions.
+Carbon + Ammonia (NH₃)
+
+Use Case:
+Forms Hydrogen Cyanide (HCN), used in chemical synthesis and pesticides. It is a building block for pharmaceuticals and plastics.
+
+
+
+
+# data table 
+MolWt: Molecular weight.
+TPSA: Topological polar surface area.
+NumHDonors: Number of hydrogen bond donors.
+NumHAcceptors: Number of hydrogen bond acceptors.
+LogP: The log of the partition coefficient between octanol and water, indicating how hydrophobic the compound is.
